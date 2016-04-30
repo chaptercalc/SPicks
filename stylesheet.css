@@ -1,0 +1,54 @@
+.whichstocks {
+
+	background-color: lightblue;
+}
+
+.nav {
+margin: 0;
+padding: 20px 0;
+
+}
+
+.nav li {
+	color: black;
+	font-family: sans-serif;
+	font-weight: 600px;
+	font-size: 25px;
+	display: inline;
+	text-align: center;
+}
+
+.whichstockscontainer {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 10px;
+	text-align: center;
+}
+
+.sortbywhat {
+	background-color: lightgreen;
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 10px;
+	max-height: 940px;
+
+}
+.sortbywhat li {
+
+
+}
+
+
+}
+
+}
+
+h1 {
+font-family: serif;
+text-align: center;
+}
+
+p {
+align-self: center;
+text-align: center;
+}
