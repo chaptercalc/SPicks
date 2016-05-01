@@ -1,0 +1,100 @@
+.mainholder {
+
+	min-height: 100%;
+	width: 1000px;
+	background-color: red;
+	margin: 0 auto;
+}
+
+#headerbar {
+	background-color: black;
+	position: relative;
+	padding: 0;
+	color: white;
+	font-size: 12px;
+	height: 27px;
+	font-weight: bold;
+}	
+
+.content {
+	width: 100%
+	margin-top: 0;
+	height: 100%;
+	text-align: left;
+	background-color: lightblue;
+
+}
+
+.mp_spacer {
+
+	height: 20px;
+}
+
+.main {
+	display: block;
+	text-align: center;
+
+}
+.mainlogo{
+	height: 106px;
+	background-color: lightgreen;
+}
+.menu {
+	position: relative;
+}
+
+table.menu_wrapper {
+	border-spacing: 0;
+	border-collapse: collapse;
+	background-color: pink;
+	height: 300px;
+
+}
+.menu_wrapper{
+	width: 100%;
+}
+
+.maincol {
+
+	vertical-align: top;
+	text-align: left;
+	font-size: 12px;
+	padding: 0;
+}
+
+td.sidemenu {
+	width: 160px;
+	padding: 1px 2px 0 0;
+	vertical-align: top;
+	font-size: 12px;
+	position: relative;
+	background-color: lightblue;
+
+}
+
+div.sidemenu {
+	width: 160px;
+}
+
+td, th {
+
+	display: table-cell;
+}
+
+table {
+	display: table;
+	border-color: gray;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+
+div {
+	display: block;
+}
+
+body {
+font-family: Arial;
+font-size: 14px;
+color: black;
+
+}
